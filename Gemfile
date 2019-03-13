@@ -50,6 +50,9 @@ group :development, :test do
   gem 'database_cleaner'
   gem 'faker'
   gem 'shoulda-matchers', '~> 4.0.1'
+  gem 'pry-rails'
 end
 
-gem 'pry'
+gem 'devise'
+
+gem 'thin'
