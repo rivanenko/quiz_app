@@ -1,0 +1,42 @@
+[
+  { name: 'RoR',
+    questions: [
+      {
+        name: 'Some question1',
+        options: [
+          { name: 'Some correct answer option', correct: true },
+          { name: 'Another correct answer option', correct: true },
+          { name: 'Incorrect answer option', correct: false },
+        ]
+      },
+      {
+        name: 'Some question2',
+        options: [
+          { name: 'Incorrect answer option', correct: false },
+          { name: 'Incorrect answer option', correct: false },
+          { name: 'Correct answer option', correct: true },
+        ]
+      },
+    ]
+  },
+  { name: 'ruby',
+    questions: [
+      {
+        name: 'Some question1',
+        options: [
+         { name: 'Some correct answer option', correct: true },
+          { name: 'Another correct answer option', correct: true },
+          { name: 'Incorrect answer option', correct: false },
+        ]
+      },
+      {
+        name: 'Some question2',
+        options: [
+          { name: 'Incorrect answer option', correct: false },
+          { name: 'Incorrect answer option', correct: false },
+          { name: 'Correct answer option', correct: true },
+        ]
+      },
+    ]
+  },
+]
